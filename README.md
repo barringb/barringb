@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Brad
-- 👀 I’m interested in App Development & BBQ
+- 👋 Hi, I’m Brad.
+- 👀 I’m interested in App Development & BBQ.
 - 🌱 I’m currently developing mobile apps with Flutter.
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking to collaborate on interesting projects.
 
 <!---
 barringb/barringb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
