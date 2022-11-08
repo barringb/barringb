@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brad
 - 👀 I’m interested in App Development & BBQ
-- 🌱 I’m currently learning Dart & Flutter
+- 🌱 I’m currently developing mobile apps with Flutter.
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
